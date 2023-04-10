@@ -1,18 +1,18 @@
 import random
 
 def main():
-print(&quot;Willst du gewinnen?&quot;)
-antwort = input(&quot;Ja oder Nein? &quot;)
-if antwort == &quot;Ja&quot;:
-print(&quot;Herzlichen Glückwunsch! Du hast gewonnen!&quot;)
+print("Willst du gewinnen?")
+antwort = input("Ja oder Nein? ")
+if antwort == "Ja":
+print("Herzlichen Glückwunsch! Du hast gewonnen!")
 else:
 while True:
-fragen = [&quot;Warum nicht?&quot;, &quot;Hast du das Spiel verstanden?&quot;, &quot;Wie geht es dir heute?&quot;]
+fragen = ["Warum nicht?", "Hast du das Spiel verstanden?", "Wie geht es dir heute?"]
 print(random.choice(fragen))
-antwort = input(&quot;Ja oder Nein? &quot;)
-if antwort == &quot;Ja&quot;:
-print(&quot;Herzlichen Glückwunsch! Du hast gewonnen!&quot;)
+antwort = input("Ja oder Nein? ")
+if antwort == "Ja":
+print("Herzlichen Glückwunsch! Du hast gewonnen!")
 break
 
-if __name__ == &quot;__main__&quot;:
+if __name__ == "__main__":
 main()
