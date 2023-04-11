@@ -7,7 +7,7 @@ pygame.init()
 WINDOW_WIDTH = 800
 WINDOW_HEIGHT = 600
 window = pygame.display.set_mode((WINDOW_WIDTH, WINDOW_HEIGHT))
-pygame.display.set_caption(&quot;Pongalike&quot;)
+pygame.display.set_caption('Pongalike')
 
 # Set up the clock
 clock = pygame.time.Clock()
@@ -15,9 +15,9 @@ clock = pygame.time.Clock()
 # Run the game loop
 while True:
 # Handle events
-for event in pygame.event.get():
-if event.type == pygame.QUIT:
-pygame.quit()
+ for event in pygame.event.get():
+  if event.type == pygame.QUIT:
+   pygame.quit()
 sys.exit()
 
 # Update the screen
@@ -30,7 +30,7 @@ clock.tick(60)
 font = pygame.font.SysFont(None, 48)
 
 # Create a text object
-text = font.render(&quot;Written by an AI&quot;, True, (255, 255, 255))
+text = font.render('Written by an AI', True, (255, 255, 255))
 
 # Draw the text object to the screen
 window.blit(text, (WINDOW_WIDTH / 2 - text.get_width() / 2, WINDOW_HEIGHT / 2 - text.get_height() / 2))
