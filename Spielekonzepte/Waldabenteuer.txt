@@ -1,0 +1,21 @@
+Titel: Waldabenteuer
+
+Genre: Textadventure
+
+Zielgruppe: Jugendliche und Erwachsene
+
+Kurzbeschreibung: Du bist ein/eine junge/r Abenteurer/in, der/die sich in einen geheimnisvollen Wald verirrt hat. Du musst deinen Weg zurück zur Zivilisation finden, während du dich mit verschiedenen Gefahren und Rätseln auseinandersetzt. Du kannst verschiedene Gegenstände sammeln, mit anderen Charakteren interagieren und Entscheidungen treffen, die den Verlauf der Geschichte beeinflussen.
+
+Ideen:
+- Der Wald ist voller magischer und mysteriöser Wesen, wie Feen, Kobolde, Hexen, Drachen usw. Einige sind freundlich, andere feindlich oder neutral. Du kannst versuchen, mit ihnen zu kommunizieren oder zu kämpfen.
+- Der Wald hat auch verschiedene natürliche Hindernisse, wie Flüsse, Schluchten, Höhlen, Sümpfe usw. Du musst deine Umgebung erkunden und nutzen, um voranzukommen oder dich zu verstecken.
+- Der Wald ist von einem alten Fluch befallen, der ihn immer wieder verändert. Du kannst nie sicher sein, was du als nächstes findest oder ob du dich im Kreis bewegst. Du musst aufmerksam sein und Hinweise suchen, um den Fluch zu brechen oder zu umgehen.
+- Der Wald ist nicht nur ein Ort, sondern auch ein Charakter. Er hat eine eigene Persönlichkeit und einen eigenen Willen. Er kann dir helfen oder dich behindern, je nachdem, wie du dich ihm gegenüber verhältst. Du kannst versuchen, ihn zu verstehen oder zu beeinflussen.
+
+Charaktere:
+- Du: Du bist ein/eine junge/r Abenteurer/in mit einem großen Sinn für Neugier und Entdeckung. Du hast dich in den Wald gewagt, um seine Geheimnisse zu erforschen, aber du hast dich verlaufen. Du hast nur wenige Gegenstände bei dir und musst dich auf deinen Verstand und deine Fähigkeiten verlassen.
+- Der Wald: Er ist der Hauptantagonist und Protagonist zugleich. Er ist ein lebendiger und bewusster Ort mit einer eigenen Geschichte und einem eigenen Ziel. Er kann dir helfen oder schaden, je nachdem, wie du dich ihm gegenüber verhältst. Er spricht nicht direkt mit dir, sondern zeigt dir seine Gedanken und Gefühle durch seine Umgebung und seine Bewohner.
+- Die Feen: Sie sind kleine und flinke Wesen mit Flügeln und Zauberkräften. Sie leben in Harmonie mit dem Wald und sind meist freundlich und hilfsbereit. Sie können dir nützliche Informationen oder Gegenstände geben oder dich vor Gefahren warnen. Sie mögen es aber nicht, wenn du ihre Regeln brichst oder ihren Spaß verdirbst.
+- Die Kobolde: Sie sind kleine und listige Wesen mit spitzen Ohren und Zähnen. Sie leben in Verstecken im Wald und sind meist feindlich und hinterhältig. Sie können dir Fallen stellen oder deine Sachen stehlen oder dich einfach ärgern. Sie mögen es aber auch, wenn du ihnen Rätsel stellst oder ihnen Schätze anbietest.
+- Die Hexe: Sie ist eine alte Frau mit einem langen Mantel und einem spitzen Hut. Sie lebt in einer Hütte im Wald und ist eine mächtige Zauberin. Sie kann dir helfen oder schaden, je nachdem, was sie von dir will oder was du ihr gibst. Sie mag es aber nicht, wenn du ihr misstraust oder ihr widersprichst.
+- Der Drache: Er ist ein großes und majestätisches Wesen mit Schuppen und Flügeln. Er lebt in einer Höhle im Wald und ist der Hüter eines großen Schatzes. Er kann dir helfen oder schaden, je nachdem, wie du dich ihm gegenüber verhältst oder was du ihm anbietest. Er mag es aber nicht, wenn du ihn herausforderst oder seinen Schatz begehrst.
