@@ -1,0 +1,13 @@
+Titel: Space Rogue
+
+Genre: 2D Space Adventure, Exploration, Roguelike/Lite
+
+Zielgruppe: Fans von Science-Fiction und Herausforderung
+
+Kurzbeschreibung: Du bist ein/eine Weltraumpilot/in, der/die sich in einer gefährlichen Galaxie voller Feinde, Ressourcen und Geheimnisse befindet. Du startest mit einem zufälligen Raumschiff, das du unterwegs mit Upgrades verbessern kannst. Du musst dich durch verschiedene Sektoren kämpfen, Planeten erkunden, Handel treiben und überleben. Jedes Spiel ist anders, da die Galaxie und die Ereignisse prozedural generiert werden. Wenn du stirbst, verlierst du alles und musst von vorne anfangen.
+
+Ideen:
+- Das Raumschiff ist dein wichtigstes Werkzeug und deine wichtigste Waffe. Du kannst es mit verschiedenen Modulen ausstatten, die seine Attribute wie Geschwindigkeit, Schilde, Waffen, Sensoren usw. verändern. Du kannst auch verschiedene Fähigkeiten freischalten, die dir im Kampf oder in der Erkundung helfen. Du musst aber auch auf deinen Treibstoff, deine Munition und deine Haltbarkeit achten.
+- Die Galaxie ist voller verschiedener Sektoren, die du in beliebiger Reihenfolge besuchen kannst. Jeder Sektor hat seine eigenen Merkmale, wie Asteroidenfelder, Nebel, Wurmlöcher, Piratenbasen usw. Du kannst auch zufällige Ereignisse erleben, die dir Vorteile oder Nachteile bringen können. Du musst dich entscheiden, ob du dich den Gefahren stellst oder ihnen ausweichst.
+- Die Planeten sind die Hauptquellen für Ressourcen und Informationen. Du kannst auf ihnen landen und sie mit einem Landefahrzeug erkunden. Du kannst verschiedene Dinge finden, wie Rohstoffe, Artefakte, Alien-Ruinen usw. Du kannst auch auf andere Charaktere treffen, die dir Quests anbieten oder mit dir handeln können. Du musst aber auch auf deine Umwelt achten, die dir schaden oder helfen kann.
+- Das Spiel ist sehr herausfordernd und erfordert strategisches Denken und schnelle Reaktionen. Du musst dich ständig anpassen und improvisieren, um zu überleben. Du kannst nicht speichern oder laden, sondern nur pausieren. Wenn du stirbst, verlierst du alles und musst von vorne anfangen. Das Spiel belohnt aber auch deine Neugier und dein Experimentieren mit neuen Möglichkeiten und Überraschungen.
